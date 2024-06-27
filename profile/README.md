@@ -1,6 +1,7 @@
-![PicoNexus image 1](images/PicoNexus.png)
-
 # PicoNexus
+
+![PicoNexus image 1](images/PicoNexus3.png)
+
 
 Hey there! Welcome to **PicoNexus** – your go-to place for all things Raspberry Pi Pico! We're all about sharing and collaborating on awesome open-source projects using the Raspberry Pi Pico microcontroller.
 
