@@ -31,7 +31,7 @@ We love contributions! Got a new project, a helpful library, or some improvement
 
 ## License
 
-Everything you find here is open-source and licensed under the [MIT License](https://github.com/PicoNexus/pico-projects/blob/main/LICENSE).
+Everything you find here is open-source and licensed under the [Apache License 2.0](https://github.com/PicoNexus/pico-projects/blob/main/LICENSE).
 
 ---
 
