@@ -26,7 +26,7 @@ Ready to dive in? Just clone the [pico-projects](https://github.com/PicoNexus/pi
 
 ## Reporting issues
 
-[Use this link to report any issue] (https://github.com/PicoNexus/.github/issues)
+[Use this link to report any issue](https://github.com/PicoNexus/.github/issues)
 
 ## Contributing
 
