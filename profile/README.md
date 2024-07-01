@@ -24,6 +24,10 @@ We're committed to collecting all the best code for the Raspberry Pi Pico, makin
 
 Ready to dive in? Just clone the [pico-projects](https://github.com/PicoNexus/pico-projects) repository and follow the instructions. If you're new to the Raspberry Pi Pico, check out our beginner guides and sample code in the repo. You'll be up and running in no time!
 
+## Reporting issues
+
+[Use this link to report any issue] (https://github.com/PicoNexus/.github/issues)
+
 ## Contributing
 
 We love contributions! Got a new project, a helpful library, or some improvements to existing code? Fork the [pico-projects](https://github.com/PicoNexus/pico-projects) repository and send us a pull request. For more details on how to contribute, see our [CONTRIBUTING.md](https://github.com/PicoNexus/pico-projects/blob/main/CONTRIBUTING.md).
